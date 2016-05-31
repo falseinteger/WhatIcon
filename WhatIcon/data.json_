@@ -1,0 +1,29 @@
+{
+    "Sections": [
+    {
+        "section":"test",
+        "sectionName": "test name"
+    }
+    ],
+    "Icons": [
+              {
+              "nameIcon":"test icon 1",
+              "nameImage":"ic_test",
+              "section":"test",
+              "typeIcon":"test"
+              },
+              {
+              "nameIcon":"test icon 2",
+              "nameImage":"ic_test",
+              "section":"test",
+              "typeIcon":"test"
+              },
+              {
+              "nameIcon":"test icon 3",
+              "nameImage":"ic_test",
+              "section":"test",
+              "typeIcon":"test"
+              }
+              ],
+    "Version":"1"
+}

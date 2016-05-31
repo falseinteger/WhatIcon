@@ -1,0 +1,262 @@
+{
+    "Sections": [
+                 {
+                 "section":"wash",
+                 "sectionName": "Washing clothes"
+                 },
+                 {
+                 "section":"dryer",
+                 "sectionName": "Drying clothes"
+                 },
+                 {
+                 "section":"cleanandwhiten",
+                 "sectionName": "Cleaning and Whitening"
+                 },
+                 {
+                 "section":"iron",
+                 "sectionName": "Ironing of clothes"
+                 }
+
+    ],
+    "Icons": [
+              {
+              "nameIcon":"The sign denoting a basin of water tells us that the thing can be safely washed in normal conditions.",
+              "nameImage":"ic_test",
+              "section":"wash"
+              },
+              
+              {
+              "nameIcon":"Holders of things with this designation have to put up with the fact that clothes washed strictly prohibited.",
+              "nameImage":"ic_wash_noneautowash",
+              "section":"wash"
+              },
+              {
+              "nameIcon":"For such clothes washing machine under the ban, it can not be washed.",
+              "nameImage":"ic_wash_none",
+              "section":"wash"
+              },
+              {
+              "nameIcon":"If you have clothes with such a designation, then you should use a gentle wash cycle and spin in the washing machine. Select the delicate wash cycle and reduce the spin speed.",
+              "nameImage":"ic_wash_washauto",
+              "section":"wash"
+              },
+              {
+              "nameIcon":"When washing such things, it is necessary to adhere to the temperature at 30°C, thus it is necessary to use a delicate wash cycle and reduce the spin speed.",
+              "nameImage":"ic_wash_wash30delicate",
+              "section":"wash"
+              },
+              {
+              "nameIcon":"Use delicate wash cycle with minimum spin speed. It is advisable to wash in plenty of water.",
+              "nameImage":"ic_wash_washautodelicat",
+              "section":"wash"
+              },
+              {
+              "nameIcon":"Wash items with a similar designation is only possible manually. In the washing machine to wash such clothing is strictly prohibited. the washing temperature must not exceed 40°C. a special program on most washing machines \"Hand wash\".",
+              "nameImage":"ic_wash_handonly",
+              "section":"wash"
+              },
+              {
+              "nameIcon":"If your clothing is a sign of this, it means that you erase it can at high temperatures, and if necessary, boiled.",
+              "nameImage":"ic_wash_wash95",
+              "section":"wash"
+              },
+              {
+              "nameIcon":"Clothing with a sign capable of transferring a temperature not exceeding 60°C, usually such a designation is located on a colored linen.",
+              "nameImage":"ic_wash_wash60",
+              "section":"wash"
+              },
+              {
+              "nameIcon":"Clothing with a sign capable of transferring a temperature not exceeding 50°C, usually such a designation is located on a colored linen.",
+              "nameImage":"ic_wash_wash50",
+              "section":"wash"
+              },
+              {
+              "nameIcon":"Laundry can be washed only with warm water and non-aggressive detergent powders at a temperature of 40°C",
+              "nameImage":"ic_wash_wash40",
+              "section":"wash"
+              },
+              {
+              "nameIcon":"Cold washing clothes at a temperature no higher than 30°C",
+              "nameImage":"ic_wash_wash30",
+              "section":"wash"
+              },
+              {
+              "nameIcon":"Linen with such designation is strictly prohibited twisting and pressing both the machine and by hand.",
+              "nameImage":"ic_wash_nonedry1",
+              "section":"wash"
+              },
+              {
+              "nameIcon":"Linen with such designation is strictly prohibited twisting and pressing both the machine and by hand.",
+              "nameImage":"ic_wash_nonedry2",
+              "section":"wash"
+              },
+              
+              
+              {
+              "nameIcon":"Items with the symbol can be safely dried at very high temperatures, and apply machine drying.",
+              "nameImage":"ic_dryer_three",
+              "section":"dryer"
+              },
+              {
+              "nameIcon":"Drying at high temperatures - a symbol lets you know that clothes can be dried at high temperatures. Such temperatures are used in a conventional drying machine.",
+              "nameImage":"ic_dryer_two",
+              "section":"dryer"
+              },
+              {
+              "nameIcon":"It is a sign of gentle drying at low temperature - if you have a washing machine or tumble dryer is possible to reduce the drying temperature or enable gentle treatment, then by all means use it.",
+              "nameImage":"ic_dryer_one",
+              "section":"dryer"
+              },
+              {
+              "nameIcon":"Things with this symbol is prohibited to dry in the dryer and washing machine, and they can not be in the pressing machine.",
+              "nameImage":"ic_dryer_circle",
+              "section":"dryer"
+              },
+              {
+              "nameIcon":"This icon, you can meet more often on all types of clothing. It means that the item can be safely dried and pressing in a stylish machine gun.",
+              "nameImage":"ic_dryer_circle_block",
+              "section":"dryer"
+              },
+              {
+              "nameIcon":"Designation of this kind are very common on the specific things that can only be dried vertically. It is also strictly prohibited to squeeze the things they need to hang the wet, and the water will drain from them herself.",
+              "nameImage":"ic_dryer_three_line",
+              "section":"dryer"
+              },
+              {
+              "nameIcon":"This symbol can be found on the membrane clothes, and designate it will, then that thing can be dried in a horizontal position, and nothing else.",
+              "nameImage":"ic_dryer_line",
+              "section":"dryer"
+              },
+              {
+              "nameIcon":"Remember this symbolism is very simple, it means that the clothes to be dried on the clothesline.",
+              "nameImage":"ic_dryer_half_circle",
+              "section":"dryer"
+              },
+              {
+              "nameIcon":"The clothes with the label can be safely dried as a clothesline or in the machine.",
+              "nameImage":"ic_dryer_none",
+              "section":"dryer"
+              },
+              {
+              "nameIcon":"If you see this sign, you should know that things dry in the dryer or washing machine is strictly prohibited.",
+              "nameImage":"ic_dryer_none_block",
+              "section":"dryer"
+              },
+              {
+              "nameIcon":"Сlothes with such box should only be dried in the shade and avoid sunlight.",
+              "nameImage":"ic_dryer_none_shadow",
+              "section":"dryer"
+              },
+              
+              
+              {
+              "nameIcon":"Things you can give to the dry cleaners and apply any solvents, which are designed for this purpose.",
+              "nameImage":"ic_cleanandwhiten_a",
+              "section":"cleanandwhiten"
+              },
+              {
+              "nameIcon":"During cleaning agents should be used that contain hydrocarbon, chlorine, ethylene, monofluorotrichloromethane.",
+              "nameImage":"ic_cleanandwhiten_p",
+              "section":"cleanandwhiten"
+              },
+              {
+              "nameIcon":"Such clothes can be cleaned with the help of the well-known white-spirit, it is also allowed to use a different triftortrihlormetana and hydrocarbon.",
+              "nameImage":"ic_cleanandwhiten_f",
+              "section":"cleanandwhiten"
+              },
+              {
+              "nameIcon":"So things require a gentle wash and cleaning them should be used hydrocarbon monoflotrihlormetan chlorine or ethylene.",
+              "nameImage":"ic_cleanandwhiten_p_line",
+              "section":"cleanandwhiten"
+              },
+              {
+              "nameIcon":"Even more gentle wash at a possible use of hydrocarbon and triflotrihlormetana.",
+              "nameImage":"ic_cleanandwhiten_f_line",
+              "section":"cleanandwhiten"
+              },
+              {
+              "nameIcon":"Dry cleaning - things with this sign can be cleaned without the use of liquid assets.",
+              "nameImage":"ic_cleanandwhiten_none",
+              "section":"cleanandwhiten"
+              },
+              {
+              "nameIcon":"The sign tells us that the dry cleaning things with such designation is prohibited.",
+              "nameImage":"ic_cleanandwhiten_none_block",
+              "section":"cleanandwhiten"
+              },
+              {
+              "nameIcon":"The sign tells us that the dry cleaning things with such designation is prohibited.",
+              "nameImage":"ic_cleanandwhiten_ff_block",
+              "section":"cleanandwhiten"
+              },
+              {
+              "nameIcon":"Dry things are not prohibited, but requires special attention, t. To. Not all types of solvents normally tolerated. You can clean the proven mineral alcohol.",
+              "nameImage":"ic_cleanandwhiten_ff_block_2",
+              "section":"cleanandwhiten"
+              },
+              {
+              "nameIcon":"Designation indicates that the item can be bleached by any bleaching agents, even containing chlorine.",
+              "nameImage":"ic_cleanandwhiten_cl_none",
+              "section":"cleanandwhiten"
+              },
+              {
+              "nameIcon":"Any prohibited whitening. Especially avoid substances containing chlorine.",
+              "nameImage":"ic_cleanandwhiten_cl_none_block",
+              "section":"cleanandwhiten"
+              },
+              {
+              "nameIcon":"Bleach possible, but only in cold water and complete dissolution of the powder.",
+              "nameImage":"ic_cleanandwhiten_cl_text",
+              "section":"cleanandwhiten"
+              },
+              {
+              "nameIcon":"Thing can be bleach, but bleach without chlorine.",
+              "nameImage":"ic_cleanandwhiten_cl_text_block",
+              "section":"cleanandwhiten"
+              },
+              {
+              "nameIcon":"The thing to be bleached, but without bleach chlorine content.",
+              "nameImage":"ic_cleanandwhiten_cl_line_2",
+              "section":"cleanandwhiten"
+              },
+              
+              
+              {
+              "nameIcon":"You can pat - things on which you see this symbol, you can iron without any fears for her. Also, for such things can be used feature ironing machine.",
+              "nameImage":"ic_iron_none",
+              "section":"iron"
+              },
+              {
+              "nameIcon":"To iron at temperatures up to 200°C - such designations do you often find on products from flax and cotton. Also, for such things can be used feature ironing machine.",
+              "nameImage":"ic_iron_three",
+              "section":"iron"
+              },
+              {
+              "nameIcon":"To iron at temperature not higher than 140° - in this icon, you need to set the iron temperature less than 140°C, higher temperature, you can easily spoil a thing. If you have not temperature refer to iron, it will expose the temperature slider to the middle.",
+              "nameImage":"ic_iron_circle",
+              "section":"iron"
+              },
+              {
+              "nameIcon":"To iron at temperature not higher than 130°C - this designation is very common on things made of viscose, silk, wool, polyester, polyester.",
+              "nameImage":"ic_iron_two",
+              "section":"iron"
+              },
+              {
+              "nameIcon":"To iron at temperature not higher than 120°C - this mode should be used for more delicate fabrics, such as polyamide, nylon, viscose, polyacrylate, nylon, acetate. It is necessary to set the minimum temperature on the iron and iron very carefully.",
+              "nameImage":"ic_iron_one",
+              "section":"iron"
+              },
+              {
+              "nameIcon":"Do not iron -.. Everything is simple, familiar things with this iron is strictly prohibited, that is to damage during ironing inevitable.",
+              "nameImage":"ic_iron_block",
+              "section":"iron"
+              },
+              {
+              "nameIcon":"To iron at temperature not higher than 130°C - this designation is very common on things made of viscose, silk, wool, polyester, polyester.",
+              "nameImage":"ic_iron_under_block",
+              "section":"iron"
+              }
+              
+              ],
+    "Version":"1"
+}
